@@ -1,4 +1,4 @@
-name: Check Benefits
+name: Run
 on:
   push:
   schedule:
