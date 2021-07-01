@@ -28,7 +28,6 @@ class Calculator:
             {'code': '89311077', 'name': 'SBI_IV'},
             {'code': '89311199', 'name': 'SBI_SP'},
             {'code': '8931217C', 'name': 'SBI_ALL'},
-            {'code': '89311199', 'name': 'SBI_SP'},
         ]
 
         df_list = list()
